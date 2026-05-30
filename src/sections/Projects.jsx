@@ -2,9 +2,9 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 const projects = [
   {
-    title: "Fintech Dashboard",
+    title: "Building a DDoS Detection Tool",
     description:
-      "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
+      "This tool is like a security guard for your server. It watches traffic, learns what “normal” looks like, spots suspicious spikes, and automatically blocks bad visitors.",
     image: "/projects/project1.png",
     tags: [
       "Linux",

@@ -96,10 +96,12 @@ export const Hero = () => {
 
             {/* CTAs */}
             <div className="flex flex-wrap gap-4 animate-fade-in animation-delay-300">
-              <Button 
+              <Button
                 size="lg"
                 onClick={() => {
-                  document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" });
+                  document
+                    .getElementById("contact")
+                    ?.scrollIntoView({ behavior: "smooth" });
                 }}
               >
                 Contact Me <ArrowRight className="w-5 h-5" />
@@ -163,7 +165,7 @@ export const Hero = () => {
                   <div className="flex items-center gap-3">
                     <div className="w-3 h-3 bg-green-500 rounded-full animate-pulse" />
                     <span className="text-sm font-medium">
-                      Available for work
+                      I am Erharuyi Godwin and I am Available for work
                     </span>
                   </div>
                 </div>

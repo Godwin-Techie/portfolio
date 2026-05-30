@@ -1,8 +1,8 @@
 const experiences = [
   {
-    period: "Apr — May 2026",
+    period: "Apr — June 2026",
     role: "DevOps Engineer Intern",
-    company: "HNG Tech",
+    company: "HNG14 Tech",
     description:
       "Delivered 14 production‑grade DevOps projects covering CI/CD pipelines, containerization, observability, Linux networking, Blue/Green deployments, and automated provisioning. Built SwiftDeploy, a DevOps automation tool for provisioning, deployment, and monitoring.",
     technologies: [
@@ -18,9 +18,9 @@ const experiences = [
     current: true,
   },
   {
-    period: "Sept — Oct 2025",
+    period: "Sept — Nov 2025",
     role: "DevOps Engineer Intern",
-    company: "HNG Tech",
+    company: "HNG13 Tech",
     description:
       "Implemented automated deployment pipelines, designed a Linux‑based VPC with routing and firewall rules, and built observability pipelines with log watchers and Slack alerting. Developed multi‑environment configuration management for dev/staging/prod.",
     technologies: [

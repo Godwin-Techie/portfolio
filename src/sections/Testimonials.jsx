@@ -16,7 +16,7 @@ const testimonials = [
   },
   {
     quote:
-      "Godwin's expertise in React and TypeScript helped us rebuild our entire frontend in record time. His architectural decisions continue to pay dividends.",
+      "Godwin's expertise in CI/CD Pipeline and Docker helped us rebuild our infrastructure from scratch. His work was instrumental in improving our deployment speed and reliability.",
     author: "Nweke Henry",
     role: "Engineering Lead, Chitext Labs",
   },

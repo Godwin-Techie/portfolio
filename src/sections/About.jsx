@@ -53,7 +53,7 @@ export const About = () => {
                 I'm a DevOps Engineer passionate about automation, cloud
                 infrastructure, and building scalable systems. My journey began
                 with a curiosity for how servers, networks, and deployments work
-                behind the scenes—and it has grown into hands-on experience
+                behind the scenes-and it has grown into hands-on experience
                 designing real-world DevOps solutions.
               </p>
 
@@ -76,7 +76,7 @@ export const About = () => {
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
               <p className="text-lg font-medium italic text-foreground">
                 "My mission is to build systems that are fast, secure, and
-                reliable—automating everything that can be automated, and
+                reliable, automating everything that can be automated, and
                 delivering infrastructure that teams can trust."
               </p>
             </div>
