@@ -85,12 +85,12 @@ export const Hero = () => {
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                Hi, I'm Device — a DevOps Engineer focused on automation,
-                scalable infrastructure, CI/CD pipelines, containerization, and
-                cloud-native systems. I’ve built 14 production‑grade DevOps
-                projects during my internships at HNG Tech, including Blue/Green
-                deployments, VPC networking, observability pipelines, and
-                automated provisioning tools.
+                Hi, I'm Erharuyi Godwin - a DevOps Engineer focused on
+                automation, scalable infrastructure, CI/CD pipelines,
+                containerization, and cloud-native systems. I’ve built 14
+                production‑grade DevOps projects during my internships at HNG
+                Tech, including Blue/Green deployments, VPC networking,
+                observability pipelines, and automated provisioning tools.
               </p>
             </div>
 
