@@ -246,7 +246,7 @@ export const Contact = () => {
               <p className="text-muted-foreground text-sm">
                 I’m open to DevOps roles, cloud engineering positions, and
                 freelance infrastructure projects. If you need automation,
-                deployment pipelines, or scalable cloud systems — I’m ready to
+                deployment pipelines, or scalable cloud systems - I’m ready to
                 help.
               </p>
             </div>
